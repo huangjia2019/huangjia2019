@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/jia-huang-profile-banner.svg" width="100%" alt="Jia Huang — agent architecture, pattern language, and production systems">
+  <img src="./assets/jia-huang-profile-banner-v2.svg" width="100%" alt="Jia Huang — agent architecture, pattern language, and production systems">
 </p>
 
 # Jia Huang (黄佳)
@@ -13,7 +13,7 @@ I work on agent architecture, design patterns, long-running reliability, and the
 ## Current work
 
 <a href="https://www.manning.com/books/designing-ai-agents">
-  <img align="right" width="205" src="./assets/designing-ai-agents.jpg" alt="Designing AI Agents by Jia Huang">
+  <img align="right" width="24%" src="./assets/designing-ai-agents.jpg" alt="Designing AI Agents by Jia Huang">
 </a>
 
 - **Agent architecture:** a two-axis framework combining seven cognitive functions with six execution topologies.
