@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/jia-huang-profile-banner.svg" width="100%" alt="Jia Huang — agent architecture, pattern language, and production systems">
+</p>
+
 # Jia Huang (黄佳)
 
 AI researcher at A*STAR Singapore, author of [*Designing AI Agents*](https://www.manning.com/books/designing-ai-agents), and co-founder of the [Agent Design Patterns Society](https://adpsagent.com/).
@@ -6,12 +10,26 @@ I work on agent architecture, design patterns, long-running reliability, and the
 
 [Website](https://kage-ai.com/) · [Professional profile (PDF)](https://kage-ai.com/files/Jia-Huang-Profile.pdf) · [Substack](https://agentpatterns.substack.com/) · [ADPS](https://adpsagent.com/) · [LinkedIn](https://www.linkedin.com/in/jia-huang-74657145/) · [中文主页](https://kage-ai.com/zh/)
 
+<a href="https://www.manning.com/books/designing-ai-agents">
+  <img align="right" width="225" src="./assets/designing-ai-agents.jpg" alt="Designing AI Agents by Jia Huang">
+</a>
+
 ## Current work
 
 - **Agent architecture:** a two-axis framework combining seven cognitive functions with six execution topologies.
 - **Governance in practice:** approval gates, blast-radius control, observability, and progressive autonomy.
 - **Long-running agents:** progress tracking, checkpoints, failure journals, and recovery from goal drift.
 - **Engineering education:** books, columns, and courses that have reached more than 100,000 engineers on Geek Time.
+
+The forthcoming Manning book [*Designing AI Agents*](https://www.manning.com/books/designing-ai-agents) develops these ideas as a practical catalogue of principles, patterns, and engineering trade-offs.
+
+<br clear="right">
+
+## The framework
+
+[<img src="./assets/adps-pattern-matrix.png" width="100%" alt="Agent Pattern Coordinates: seven cognitive functions by six execution topologies">](https://github.com/huangjia2019/agent-design-patterns)
+
+The coordinate system separates what an agent is doing from how the work is executed. The public catalogue maps reusable patterns across seven cognitive functions and six execution topologies.
 
 ## Start here
 
