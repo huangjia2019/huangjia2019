@@ -10,11 +10,11 @@ I work on agent architecture, design patterns, long-running reliability, and the
 
 [Website](https://kage-ai.com/) · [Professional profile (PDF)](https://kage-ai.com/files/Jia-Huang-Profile.pdf) · [Substack](https://agentpatterns.substack.com/) · [ADPS](https://adpsagent.com/) · [LinkedIn](https://www.linkedin.com/in/jia-huang-74657145/) · [中文主页](https://kage-ai.com/zh/)
 
-<a href="https://www.manning.com/books/designing-ai-agents">
-  <img align="right" width="225" src="./assets/designing-ai-agents.jpg" alt="Designing AI Agents by Jia Huang">
-</a>
-
 ## Current work
+
+<a href="https://www.manning.com/books/designing-ai-agents">
+  <img align="right" width="205" src="./assets/designing-ai-agents.jpg" alt="Designing AI Agents by Jia Huang">
+</a>
 
 - **Agent architecture:** a two-axis framework combining seven cognitive functions with six execution topologies.
 - **Governance in practice:** approval gates, blast-radius control, observability, and progressive autonomy.
